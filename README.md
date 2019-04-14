@@ -1,2 +1,1 @@
-# awesome-react-color-schematic
-A color scheme planner in react + typescript
+This project is to demonstrate and practice minimal usage of typescript with react without any state management (which you should use in any non-trivial app), feel free to hack around it!
