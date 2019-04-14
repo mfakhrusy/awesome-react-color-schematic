@@ -1,1 +1,1 @@
-This project is to demonstrate and practice minimal usage of typescript with react without any state management (which you should use in any non-trivial app), feel free to hack around it!
+This is an implementation of color schematic builder, information about color scheme is taken from: https://www.sitepoint.com/principles-of-design-colour/
